@@ -1,3 +1,3 @@
 # Cebera
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Codimow/Cebera)
+Cebera is a web application that enables data transmission through sound
